@@ -1,0 +1,52 @@
+header {
+	background-color: #800000;
+	height: 250px;
+}
+
+nav {
+	position: relative;
+	top: 53px;
+}
+
+nav ul li {
+	display: inline;
+}
+nav ul li a {
+	text-decoration: none;
+	background-color: #0d0d0d;
+	padding: 10px 25px 10px 25px;
+	border-radius: 7px 7px 0px 0px;
+	color: #ffffff;
+}
+
+p {
+  color: red;
+}
+
+.button {
+  text-decoration: none;
+  background-color: #800000;
+  color: #ffffff;
+  padding: 10px 25px 10px 25px;
+  border-radius: 7px;
+}
+
+.button:hover {
+  background-color: #0d0d0d;
+  color: #ffffff;
+}
+
+.button {background color: #00ff00;
+}
+
+footer {
+	background-color: #800000;
+	padding: 25px;
+	margin-top: 18px;
+	
+}
+
+footer p {
+	color: #ffffff;
+	text-align: center
+}
